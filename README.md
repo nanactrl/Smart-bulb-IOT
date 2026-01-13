@@ -11,8 +11,9 @@ This project is a smart home IoT system to control smart bulbs remotely using mi
 - User-friendly interface for easy management
 
 # Architecture Diagram
-![Architecture Diagram](docs/architecture-diagram.png)  
-*Diagram showing how the smart bulb, microcontroller, cloud/server, and user interface communicate.*
+<img width="1111" height="617" alt="image" src="https://github.com/user-attachments/assets/0b29728b-90f0-4571-9f16-7f1d19db6b0d" />
+*Diagram showing how the smart bulb, microcontroller, and other hardware communicate.*
+
 
 ## Hardware Used
 - ESP32 microcontroller
