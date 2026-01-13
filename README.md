@@ -10,8 +10,8 @@ This project is an IoT-based smart bulb system that connects to the Mobius serve
 - Real-time status updates from bulbs
 - User-friendly interface for easy management
 
-# Architecture Diagram
-<img width="1111" height="617" alt="image" src="https://github.com/user-attachments/assets/0b29728b-90f0-4571-9f16-7f1d19db6b0d" />
+# Smart Bulb Diagram
+<img width="1280" height="865" alt="image" src="https://github.com/user-attachments/assets/e81850cb-9f8c-4cce-9f20-1df5fa8229ab" />
 *Diagram showing how the smart bulb, microcontroller, and other hardware communicate.*
 
 
