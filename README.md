@@ -1,7 +1,7 @@
 # Smart Home Smart Bulb IoT Project
 
 ## Overview
-This project is a smart home IoT system to control smart bulbs remotely using microcontrollers ESP32 and a mobile interface. It allows users to turn bulbs on/off, adjust brightness, and set schedules for automation.
+This project is an IoT-based smart bulb system that connects to the Mobius server, which supports the oneM2M standard for IoT interoperability. The smart bulb is controlled using an Android phone app, enabling users to manage the bulb remotely. The ESP32 microcontroller is chosen for this project because it integrates both Wi-Fi and Bluetooth connectivity, providing flexible and reliable communication options for controlling the smart bulb and enhancing overall device performance.
 
 ## Features
 - Remote control of smart bulbs via Android phone
